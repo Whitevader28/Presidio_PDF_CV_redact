@@ -1,0 +1,6 @@
+argparse
+PyMuPDF
+spacy
+presidio-analyzer
+difflib
+shutil
